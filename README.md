@@ -2,8 +2,8 @@
 
 # OAuth 1.0 Parameters
 
-**oauth_callback:**
-The consumer key provided by the OAuth provider to identify the consumer (client application).
+### oauth_callback:
+- The consumer key provided by the OAuth provider to identify the consumer (client application).
 
 **oauth_callback_confirmed:**
 
